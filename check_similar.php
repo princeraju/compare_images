@@ -1,6 +1,7 @@
 <?php
 
     $scale= return_scale( 'foo','bar'); //Enter your both file names here.
+    echo $scale; //For troubleshooting purpose :)
 
     function test ($filename)
     {
