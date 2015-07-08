@@ -7,4 +7,4 @@ In the file <strong>check_similar.php</strong>, insert your two files in the fun
 where the variable $scale will get the result in 100.
 
 
-This code uses the algorithm from http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html
+This code uses the algorithm from <a href="http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html" target="_blank">http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html</a>
